@@ -6,5 +6,5 @@
 It helped me a lot to figure out which memory indexes should I look for.
 ## C Syntax
 ```
-(int)input # Access input integer value: 'f' == 66
+(int)input // Access input integer value: 'f' == 66
 ```
